@@ -1,0 +1,72 @@
+This project focuses on time series forecasting integrated with Explainable Artificial Intelligence (XAI) techniques to improve model transparency, interpretability, and trust, especially for real-world decision-making systems.
+
+🔍 Project Objective
+
+The primary objective of this project is to:
+
+Build accurate time series forecasting models
+
+Explain why and how predictions are made using XAI techniques
+
+Bridge the gap between model performance and interpretability
+[12:20 AM, 2/2/2026] Deeksha (IGDTU): Technologies & Tools Used
+
+Python
+
+Pandas, NumPy – data preprocessing & feature engineering
+
+Scikit-learn – model development
+
+Statsmodels – time series modeling
+
+Matplotlib / Seaborn – visualization
+
+SHAP & LIME – explainability and feature attribution
+
+📊 Methodology
+
+Data Preprocessing
+
+Handling missing values
+
+Trend & seasonality analysis
+
+Feature extraction from time-dependent data
+
+Time Series Modeling
+
+Baseline statistical models (e.g., ARIMA)
+
+Machine learning-based forecasting models
+
+Explainable AI Integration
+
+Used SHAP to quantify feature contributions over time
+
+Applied LIME to explain individual predictions
+
+Compared explainability across different models
+
+Evaluation
+
+RMSE, MAE for forecasting accuracy
+
+Visual interpretation of explanations for model decisions
+
+🧠 Key Highlights
+
+Combines forecast accuracy with explainability
+
+Helps stakeholders understand model behavior
+
+Suitable for applications in finance, demand forecasting, and risk analysis
+
+Research-oriented approach with paper publication in progress
+
+📌 Current Status
+
+✔ Model development completed
+
+✔ Explainability analysis implemented
+
+🔄 Research paper under preparation / in progress
